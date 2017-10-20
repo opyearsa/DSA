@@ -7,7 +7,7 @@ Reference purposes .
 4. Breadth First Search [cpp](https://github.com/saru95/DSA/blob/master/CPP/BFS.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/BFS.py) [java](https://github.com/saru95/DSA/blob/master/Java/BreadthFirstPaths.java)
 5. Suffix Arrays [cpp](https://github.com/saru95/DSA/blob/master/CPP/SuffixArray.cpp)
 6. Segment Trees [cpp](https://github.com/saru95/DSA/blob/master/CPP/SegmentTrees.cpp) [python](https://github.com/robin-0/DSA/blob/patch-1/Python/SEGTREE.py) [java](https://github.com/saru95/DSA/blob/master/Java/SegmentTrees.java)
-7. Segment Trees with Lazy Propogation [cpp](https://github.com/saru95/DSA/blob/master/CPP/SegmentTreesLazy.cpp)
+7. Segment Trees with Lazy Propagation  [cpp](https://github.com/saru95/DSA/blob/master/CPP/SegmentTreesLazy.cpp)
 8. Segment Trees with Max Prefix/Suffix Sum and Max Subvector Sum [cpp](https://github.com/saru95/DSA/blob/master/CPP/SEGTREE.cpp)
 9. Euler Totient Function [cpp](https://github.com/saru95/DSA/blob/master/CPP/EulerTotient.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/EulerTotient.py)
 10. Dijkstra's Algorithm [cpp](https://github.com/saru95/DSA/blob/master/CPP/Djikstras.cpp) [python](https://github.com/saru95/DSA/blob/master/Python/dijkstra.py) [java](https://github.com/saru95/DSA/blob/master/Java/Dijkstra.java)
